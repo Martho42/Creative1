@@ -1,0 +1,121 @@
+/* Menu */
+.bg-dark{
+  background-color: #1f1f1f !important;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+  color: rgb(170, 170, 170);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(115, 115, 115);
+}
+
+.btn {
+  color: rgb(170, 170, 170);
+}
+
+body {
+  background-color: rgb(189, 189, 189);
+}
+
+.martho {
+  width: 400px;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+}
+
+.page-item {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.footer {
+  padding: 20px;
+}
+
+.gap {
+  height: 100px;
+}
+
+.small-gap {
+  height: 25px;
+}
+
+.logo {
+  width: 150px;
+}
+
+.screenshot-grid-container {
+  display: flex;
+  justify-content: center;
+}
+
+.screenshot-grid {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 1400px;
+}
+
+.screenshot {
+  width: 400px;
+  margin: 20px;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.screenshot-grid-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: black;
+  text-decoration: none; 
+  background-color: none;
+}
+
+.screenshot-grid-item:hover {
+  color: black;
+}
+
+
+.shot-head {
+  display: flex;
+  justify-content: center;
+}
+
+.par {
+  width: 500px;
+}
+
+.link-grid-container {
+  display: flex;
+  justify-content: center;
+}
+
+.link-grid {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 520px;
+}
+
+.link-grid-item {
+  margin: 10px;
+}
+
+.lg-width {
+  width: 500px;
+}
+
+.sm-width {
+  width: 240px;
+}
